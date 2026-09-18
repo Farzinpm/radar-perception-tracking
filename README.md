@@ -282,9 +282,11 @@ The implementation includes:
 
 **Source code**
 
-- [Object fusion node](src/object_fusion/node_task_2.py)
-- [Fusion Kalman Filter](src/object_fusion/kalman_filter.py)
-- [Initial fusion node](src/object_fusion/node.py)
+ **Source code**
++- [Object fusion node](src/objekt_fusion/node_task_2.py)
++- [Fusion Kalman Filter](src/objekt_fusion/kalman_filter.py)
++- [Initial fusion node](src/objekt_fusion/node.py)
+
 
 > **Implementation status:**  
 > The object-fusion architecture and core processing logic were implemented as an experimental extension. Final Kalman Filter parameterization and quantitative validation of the radar-camera fusion stage were not completed within the laboratory project.
